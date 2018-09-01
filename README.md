@@ -1,9 +1,9 @@
 # automated-road-extraction
-Automated roads extraction from satellite imagery using a combination of image processing techniques and dynamic path finding algorithms
+Automated roads extraction from satellite imagery using a combination of image processing techniques and dynamic path finding algorithms. Read the project description [here](https://drive.google.com/file/d/1zmWoqN7tSay-REJBXZ0SfHSildUCJhYs/view?usp=sharing)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for use. All sample images are present in
-data directory
+data directory. See a visual representation of each step [here](https://docs.google.com/presentation/d/1oVIDWYQ5ZnVxSbRWyUtYeC2JI6PqkEe9PoX42nhSgx4/edit?usp=sharing)
 
 ## REQUIREMENTS
 1. Python 3.x
@@ -13,7 +13,6 @@ data directory
     - scikit-image
 
 ## Inputs
-
 - Image name (python run.py --imagename)
 - Input image number after completion of step 2. Step 3 requires manual selecting best image from results of step2 variance test for further processing.
 
