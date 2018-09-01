@@ -2,12 +2,12 @@
 			STEP 4: Path Refiner        
 -----------------------------------------------
 
-# Description
+### Description
 
 The paths obtained in the previous steps from both algorithms are further refined using a set of morphological techniques(dilation, erosion, skeletonization). The resulting road network is then projected onto the actual satellite image to obtain the final result.
 
 
-# Operations
+### Operations
 
 - Dilation
 - Erosion
@@ -17,7 +17,7 @@ The paths obtained in the previous steps from both algorithms are further refine
 - Project Path onto Image
 	
 
-# Variables
+### Variables
 
 - Kernel Size: 5x4
 
