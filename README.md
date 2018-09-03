@@ -4,7 +4,7 @@ Automated roads extraction from satellite imagery using a combination of image p
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for use. All sample images are present in
 data directory.  
-Read the description of each project [here](https://drive.google.com/file/d/1zmWoqN7tSay-REJBXZ0SfHSildUCJhYs/view?usp=sharing)  
+Read the description of each step [here](https://drive.google.com/file/d/1zmWoqN7tSay-REJBXZ0SfHSildUCJhYs/view?usp=sharing)  
 Visual representation of each step [here](https://docs.google.com/presentation/d/1oVIDWYQ5ZnVxSbRWyUtYeC2JI6PqkEe9PoX42nhSgx4/edit?usp=sharing)
 
 ## REQUIREMENTS
